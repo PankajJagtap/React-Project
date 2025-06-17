@@ -14,7 +14,7 @@ const jwelleryProduct=()=>{
         console.log('error occured during a Jwellery service calling...')
     })    
 }
-
+    
   return (
     <div>Jwellery
         <button style={{marginLeft:'0.5em'}} onClick={jwelleryProduct}>Jwellery products</button>
